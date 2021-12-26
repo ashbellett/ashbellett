@@ -25,9 +25,11 @@
 - Causal inference
 - Distributed systems.
 
-## 🐵 Curious and perseverant.
+## 🐵 Personality
+- Curious
+- Perserverant
 
-## Portfolio
+## 📔 Portfolio
 - youtube.com/channel/UCSirULWi2TjJaPh3qmFLKTA
 - ashbellett.medium.com
 - github.com/ashbellett
