@@ -1,5 +1,3 @@
-# Ash Bellett
-
 **Data scientist** and **software engineer** with 5 years of experience in artificial intelligence, data engineering and advanced analytics.
 
 ## 🔧 Technical skills
@@ -23,9 +21,13 @@
 ## 💡 Research interests
 - Reinforcement learning
 - Causal inference
-- Distributed systems.
+- Distributed systems
 
-## 🐵 Personality
+## 💡 Build interests
+- Web3
+- AI and advanced analytics
+
+## 🐵 Personal quirks
 - Curious
 - Perserverant
 
