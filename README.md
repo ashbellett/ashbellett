@@ -1,6 +1,6 @@
 **Data scientist** and **software engineer** with 5 years of experience in artificial intelligence, data engineering and advanced analytics.
 
-## 🔧 Technical skills
+## 🔑 Technical skills
 - Data analysis, engineering and modelling
 - Machine and deep learning
 - Software and web development
@@ -23,7 +23,7 @@
 - Causal inference
 - Distributed systems
 
-## 💡 Build interests
+## 🔧 Build interests
 - Web3
 - AI and advanced analytics
 
