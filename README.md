@@ -12,10 +12,7 @@
 - Servant leadership style
 
 ## 🌏 Industry experience
-- Financial services
-- Energy
-- Telecommunications
-- Government and defence
+- Financial services, energy, telecommunications, government and defence
 - Work with teams in US, UK, India and Japan
 
 ## 💡 Research interests
