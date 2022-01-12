@@ -29,6 +29,8 @@
 - Perserverant
 
 ## 📔 Portfolio
+- ashbellett.com
+- linkedin.com/in/ashbellett
 - youtube.com/channel/UCSirULWi2TjJaPh3qmFLKTA
 - ashbellett.medium.com
 - github.com/ashbellett
