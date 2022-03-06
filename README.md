@@ -12,13 +12,14 @@
 - Servant leadership style
 
 ## 🌏 Industry experience
-- Financial services, energy, telecommunications, government and defence
+- Financial services, media, energy, telecommunications, government and defence
 - Work with teams in US, UK, India and Japan
 
 ## 💡 Research interests
-- Reinforcement learning
+- Experiments
 - Causal inference
-- Distributed systems
+- Game theory
+- Reinforcement learning
 
 ## 🔧 Build interests
 - Web3
