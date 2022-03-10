@@ -25,10 +25,6 @@
 - Web3
 - AI and advanced analytics
 
-## 🐵 Personal quirks
-- Curious
-- Perserverant
-
 ## 📔 Portfolio
 - ashbellett.com
 - linkedin.com/in/ashbellett
