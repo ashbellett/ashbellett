@@ -1,22 +1,22 @@
 Data scientist and software engineer with 5 years of experience analysing, building and optimising data science applications; particularly data-driven platforms and machine learning workflows.
 
-## 🔑 Technical skills
+🔑 **Technical skills**
 - Data analysis, engineering and modelling
 - Machine and deep learning systems
 - Full-stack software development
 - Productionisation of research
 
-## 💡 Research interests
+💡 **Research interests**
 - Decision-making in competitive and uncertain environments
 - Agent learning systems
 - Causal inference
 
-## 🔧 Build interests
+🔧 **Build interests**
 - Web3
 - Data-driven platforms
 - Advanced analytics
 
-## 📔 Portfolio
+📔 **Portfolio**
 - ashbellett.com
 - twitter.com/ashbellett
 - github.com/ashbellett
