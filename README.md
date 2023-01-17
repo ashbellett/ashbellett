@@ -8,19 +8,20 @@ Data scientist and software engineer with 5 years of experience analysing, build
 
 💡 **Research interests**
 - Decision-making in competitive and uncertain environments
+- Causal inference and experiments
 - Agent learning systems
-- Causal inference
 
 🔧 **Build interests**
-- Web3
 - Data-driven platforms
 - Advanced analytics
+- Web3
 
 📔 **Portfolio**
 - ashbellett.com
+- linkedin.com/in/ashbellett
 - twitter.com/ashbellett
 - github.com/ashbellett
-- youtube.com/channel/UCSirULWi2TjJaPh3qmFLKTA
+- youtube.com/@ashbellett113
 - ashbellett.medium.com
 - kaggle.com/ashbellett
 - ashbellett.eth
