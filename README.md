@@ -4,17 +4,17 @@ Data scientist and software engineer with 5 years of experience analysing, build
 - Data analysis, engineering and modelling
 - Machine and deep learning systems
 - Full-stack software development
-- Productionisation of research
+- Productionisation of scientific research
 
 💡 **Research interests**
 - Decision-making in competitive and uncertain environments
+- Agent learning systems including reinforcement learning
 - Causal inference and experiments
-- Agent learning systems
 
 🔧 **Build interests**
 - Data-driven platforms
 - Advanced analytics
-- Web3
+- Web3 and creator economies
 
 📔 **Portfolio**
 - ashbellett.com
