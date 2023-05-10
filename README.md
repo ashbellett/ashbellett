@@ -1,4 +1,4 @@
-Data scientist and software engineer with 5 years of experience analysing, building and optimising data science applications; particularly data-driven platforms and machine learning workflows.
+Data scientist and software engineer with 6 years of experience analysing, building and optimising data-driven products; particularly data science and machine learning workflows.
 
 🔑 **Technical skills**
 - Data analysis, engineering and modelling
@@ -14,7 +14,7 @@ Data scientist and software engineer with 5 years of experience analysing, build
 🔧 **Build interests**
 - Data-driven platforms
 - Advanced analytics
-- Web3 and creator economies
+- Creator economies
 
 📔 **Portfolio**
 - ashbellett.com
