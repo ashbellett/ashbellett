@@ -7,14 +7,13 @@ Data scientist and software engineer with 6 years of experience analysing, build
 - Productionisation of scientific research
 
 💡 **Research interests**
-- Decision-making in competitive and uncertain environments
-- Agent learning systems including reinforcement learning
-- Causal inference and experiments
+- Optimal decision-making in adversarial (competitive) and stochastic (uncertain) environments
+- Agent systems including multi-armed bandits and reinforcement learning
+- Experimentation methods including A/B testing and causal inference
 
 🔧 **Build interests**
-- Data-driven platforms
-- Advanced analytics
-- Creator economies
+- Visual computing: film, gaming, extended reality
+- Creator and social economies
 
 📔 **Portfolio**
 - ashbellett.com
