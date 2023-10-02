@@ -20,7 +20,6 @@ Data scientist and software engineer with 6 years of experience analysing, build
 - linkedin.com/in/ashbellett
 - twitter.com/ashbellett
 - github.com/ashbellett
-- youtube.com/@ashbellett113
 - ashbellett.medium.com
 - kaggle.com/ashbellett
 - ashbellett.eth
