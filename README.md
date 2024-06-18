@@ -13,8 +13,3 @@ Data scientist analysing, building and optimising data-driven platforms and prod
 🔧 **Build interests**
 - Visual computing: film, gaming, extended reality
 - Creator and social economies
-
-📔 **Portfolio**
-- ashbellett.com
-- linkedin.com/in/ashbellett
-- github.com/ashbellett
