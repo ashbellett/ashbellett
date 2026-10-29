@@ -1,15 +1,16 @@
 Data scientist analysing, building and optimising data-driven platforms and products.
 
 🔑 **Technical skills**
-- Data analysis, engineering and modelling
-- Machine and deep learning systems
-- Productionisation of scientific research
-
-💡 **Research interests**
-- Optimal decision-making in adversarial (competitive) and stochastic (uncertain) environments
-- Agent systems including multi-armed bandits and reinforcement learning
-- Experimentation methods including A/B testing and causal inference
+- Measurement and metric design
+- Product analytics, experimentation and causal inference at scale
+- Statistics and ML/AI systems
 
 🔧 **Build interests**
-- Visual computing: film, gaming, extended reality
+- Decision-making in competitive and uncertain environments
 - Creator and social economies
+
+💡 **Personal interests**
+- Visual computing, storytelling
+- Endurance sports (running, cycling, swimming)
+
+🐵 Curious and perseverant
