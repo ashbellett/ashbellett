@@ -1,7 +1,7 @@
 Data scientist analysing, building and optimising data-driven platforms and products.
 
 🔑 **Technical skills**
-- Measurement and metric design
+- Product measurement and metric design
 - Product analytics, experimentation and causal inference at scale
 - Statistics and ML/AI systems
 
